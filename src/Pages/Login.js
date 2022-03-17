@@ -21,7 +21,7 @@ const Login = () => {
                     <div style={{ display: 'flex', placeContent: 'center', marginLeft: 'auto', marginRight: 'auto' }}><CustomButton text="Войти" /></div>
 
                 </Form>
-                <p>Зарегистрироваться</p>
+                <p>Нет аккаунта? Зарегистрироваться</p>
             </div>
         </div>
 
