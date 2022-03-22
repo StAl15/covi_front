@@ -13,14 +13,14 @@
     
 }
 
-.right_side {
+.right_side1 {
     margin-left: auto;
     margin-top: 30px;
     margin-right: 20px;
 }
 
 @media(max-width: 900px){
-    .right_side{
+    .family, .full_name_profile{
         display: none;
     }
 }

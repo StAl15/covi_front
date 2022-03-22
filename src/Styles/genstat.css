@@ -1,0 +1,13 @@
+.curent_patient_state{
+    color: #4A74B0;
+}
+button, button:active, button:focus{
+    background-color: #4A74B0;
+    color: white;
+    border-radius: 10px;
+    border-color: #4A74B0;
+    border-style: solid;
+    padding: 10px;
+    outline: none;
+    outline-style: none;
+}
