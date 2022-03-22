@@ -1,0 +1,26 @@
+*{
+    font-family: 'Roboto-Regular';
+}
+
+.content {
+    background-color: #F5F6F8;
+    overflow: auto;
+    width: 100vw;
+    height: 100vh;
+}
+.left_side {
+    margin-right: auto;
+    
+}
+
+.right_side {
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+@media(max-width: 900px){
+    .right_side{
+        display: none;
+    }
+}
