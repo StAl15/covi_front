@@ -3,6 +3,7 @@
 }
 
 .content {
+    
     background-color: #F5F6F8;
     overflow: auto;
     width: 100vw;
@@ -10,7 +11,7 @@
 }
 .left_side {
     margin-right: auto;
-    
+    margin-left: 170px;
 }
 
 .right_side1 {
@@ -22,5 +23,8 @@
 @media(max-width: 900px){
     .family, .full_name_profile{
         display: none;
+    }
+    .left_side{
+        margin-left: 0px;
     }
 }
