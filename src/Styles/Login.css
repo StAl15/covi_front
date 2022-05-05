@@ -10,7 +10,7 @@
 }
 .table_input{
     background-color: white;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
     padding: 15px;
     border-radius: 1em;
@@ -22,6 +22,7 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     display: grid;
+    width: 100%;
     justify-items: center;
 }
 p {
