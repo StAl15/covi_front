@@ -26,5 +26,11 @@
     }
     .left_side{
         margin-left: 0px;
+        zoom: 75%;
+        margin-bottom: 100px;
     }
+    .right_side1{
+        zoom: 75%;
+    }
+    
 }

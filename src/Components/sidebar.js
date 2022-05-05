@@ -51,7 +51,7 @@ export const Sidebar = () => {
                                 <Link to={item.path}>
                                     {/* {item.icon} */}
                                     <ThemeProvider theme={theme}>
-                                        <Chip style={{paddingLeft:'10px', borderColor: '#00000' }} clickable={true} variant="outline" color={color} icon={item.icon} onClick={handleClick} />
+                                        <Chip style={{paddingLeft:'12px', borderColor: '#00000' }} clickable={true} variant="outline" color={color} icon={item.icon} onClick={handleClick} />
                                     </ThemeProvider>
                                     
                                     <span className="item-title">{item.title}</span>
