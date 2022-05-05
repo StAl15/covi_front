@@ -1,0 +1,9 @@
+
+.filled-basic{
+    margin-bottom: 35px;
+}
+@media(max-width: 900px){
+    .right_side{
+        display: none;
+    }
+}
